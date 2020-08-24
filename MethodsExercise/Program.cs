@@ -4,16 +4,39 @@ namespace MethodsExercise
 {
     class Program
     {
+        public static int Sum(int num1, int num2)
+        {
+            var answer = num1 + num2;
+            return answer;
+
+        }
+
+        public static int Multiply(int num1, int num2, int num3)
+        { 
+            return  num1 * num2 * num3;
+        }
+
         static void Main(string[] args)
         {
-            //----------------------Exercise 1
-            //Name: Christian
-            //Favorite Color: Red
-            //Favorite Animal: Wolf
-            //Favorite Band: The Cure
-            //Favorite Song: Fascination Street
 
-            Console.WriteLine("Hello - What is your first name?");
+
+        //----------------------Exercise 2------------------------
+        var amountOfCars = Sum(2, 6);
+        var blah = Multiply(60, 2, 4);
+        //-----------------End---Exercise 2------------------------
+
+
+
+
+
+        //----------------------Exercise 1------------------------
+        //Name: Christian
+        //Favorite Color: Red
+        //Favorite Animal: Wolf
+        //Favorite Band: The Cure
+        //Favorite Song: Fascination Street
+
+        Console.WriteLine("Hello - What is your first name?");
             var userName = Console.ReadLine();
 
             Console.WriteLine($"Hi, {userName}. What is your favorite color?");
@@ -37,7 +60,12 @@ namespace MethodsExercise
             Console.WriteLine($"Favorite color: {color}");
             Console.WriteLine($"Favorite Animal: {animal}");
             Console.WriteLine($"Favorite Band: {band}");
+
+
             
+
+
+
 
 
         }
