@@ -1,0 +1,12 @@
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.deps.json
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.runtimeconfig.json
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.runtimeconfig.dev.json
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.dll
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.pdb
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.csprojAssemblyReference.cache
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.AssemblyInfoInputs.cache
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.AssemblyInfo.cs
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.dll
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.pdb
+/Users/christianaldana/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.genruntimeconfig.cache
